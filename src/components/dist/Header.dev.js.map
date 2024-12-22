@@ -1,0 +1,1 @@
+{"version":3,"sources":["Header.js"],"names":["Header"],"mappings":";;;;;;;AAAA;;;;AACQ,IAAMA,MAAM,GAAI,SAAVA,MAAU,GAAM;AAC1B;AACF,CAFM","sourcesContent":["import React from 'react'\r\n export const Header  = () => {\r\n    return\r\n }"],"file":"Header.dev.js"}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["Transaction.js"],"names":["Transaction"],"mappings":";;;;;;;AAAA;;;;AAEO,IAAMA,WAAW,GAAG,SAAdA,WAAc,GAAM;AAC7B;AACH,CAFM","sourcesContent":["import React from 'react'\r\n\r\nexport const Transaction = () => {\r\n    return\r\n}"],"file":"Transaction.dev.js"}
